@@ -26,9 +26,7 @@ RegisterNumber:  24900873
 */
 ```
 
-![Screenshot 2024-11-28 172142](https://github.com/user-attachments/assets/b1285e28-437d-45ae-9e67-e85f4d4647df)
-
-![Screenshot 2024-11-28 172202](https://github.com/user-attachments/assets/ca1193ea-bc5d-4bdf-8999-7b8bf44dc2be)
+![Screenshot 2024-11-29 024102](https://github.com/user-attachments/assets/7cb9bd89-ed6d-48c5-aae7-5eb3da5fd066)
 
 ## Output:
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
@@ -41,10 +39,9 @@ RegisterNumber:  24900873
 
 ![Screenshot 2024-11-28 171845](https://github.com/user-attachments/assets/0e8e0e97-a4bb-4fb0-b0f1-a75a99bcbe76)
 
-![Screenshot 2024-11-28 171905](https://github.com/user-attachments/assets/bca5a332-63cd-443c-b059-a3c99a32b2fe)
+![Screenshot 2024-11-29 024407](https://github.com/user-attachments/assets/1e50fe23-260f-43a5-8aec-5e0cec933ba7)
 
 ![Screenshot 2024-11-28 171957](https://github.com/user-attachments/assets/a3a58c9c-8813-47f0-a7d3-f6d8f2868a0b)
-
 
 
 ## Result:
